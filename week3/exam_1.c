@@ -8,5 +8,3 @@ int main(void) {
     printf("신소재공학과\n");
     printf("\"2013450041\" 최세진\n");
 }
-
-  
